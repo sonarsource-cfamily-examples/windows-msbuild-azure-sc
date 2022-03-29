@@ -1,3 +1,4 @@
+= branch to try it out
 = C++ example project scanned on SonarCloud using Azure Pipelines
 // URIs:
 :uri-qg-status: https://sonarcloud.io/dashboard?id=sonarsource-cfamily-examples_windows-msbuild-azure-sc
